@@ -1,0 +1,29 @@
+# .gitignore
+
+# Ignore virtual Env
+/BackEnd/venv
+
+#Ignore Node Modules
+/FrontEnd/analyst_platform/node_modules
+/FrontEnd/analyst_platform/.pnp
+/FrontEnd/analyst_platform/.pnp.js
+
+#Ignore Testing
+/FrontEnd/analyst_platform/coverage
+
+#Ignore production
+/FrontEnd/analyst_platform/build
+/FrontEnd/analyst_platform/dist
+
+
+# misc
+/FrontEnd/analyst_platform/.DS_Store
+/FrontEnd/analyst_platform/.env.local
+/FrontEnd/analyst_platform/.env.development.local
+/FrontEnd/analyst_platform/.env.test.local
+/FrontEnd/analyst_platform/.env.production.local
+
+/FrontEnd/analyst_platform/npm-debug.log*
+/FrontEnd/analyst_platform/yarn-debug.log*
+/FrontEnd/analyst_platform/yarn-error.log*
+
