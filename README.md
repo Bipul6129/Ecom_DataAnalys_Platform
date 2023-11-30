@@ -20,7 +20,7 @@ Before you begin, ensure you have the following tools installed on your machine:
 
 ## Database Setup
 - Extract Dump rar
-- Import it on MySql Workbench
+- Import it on MySql Workbench with data and structure
 
 
 ## Frontend Setup
