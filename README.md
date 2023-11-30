@@ -4,8 +4,8 @@ A react django web application that simuates ecommerce data and provide admin/an
 
 ## Login Credentials
 Use the following credentials for the Login of admin or analyst role
-- Admin (username:bipul,password:mypassword)
-- Analyst (username:user,password:mypassword)
+- Admin (username: bipul,password: mypassword)
+- Analyst (username: user,password: mypassword)
 
 
 ## Prerequisites
