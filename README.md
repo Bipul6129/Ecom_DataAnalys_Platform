@@ -1,6 +1,13 @@
 # Ecom_DataAnalys_Platform
 A react django web application that simuates ecommerce data and provide admin/analyst secure login for their respective functions and features
 
+
+## Login Credentials
+Use the following credentials for the Login of admin or analyst role
+-Admin (username:bipul,password:mypassword)
+-Analyst (username:user,password:mypassword)
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following tools installed on your machine:
