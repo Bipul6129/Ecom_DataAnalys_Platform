@@ -14,15 +14,14 @@ Before you begin, ensure you have the following tools installed on your machine:
 
 - Navigate to the Frontend Directory (FrontEnd\analyst_platform\)
 - Open terminal
--npm install
--npm start
+- -npm install
+- -npm start
 
 ## BackEnd Setup
-
-### 1. Navigate to the BackEnd Directory (BackEnd\)
-### 2. Create a virtual Environment and activate it
-### 3. Install Django and Dependencies ``` pip install -r requirements.txt ```
-### 4. Go to BackEnd\analyzePlatform\analyzePlatform\settings.py and change user password and user on DATABASES={} 
-### 5. Change database name on DATABASES according to your schema name
-### 6. Navigate to BackEnd\analyzePlatform and perform ```python manage.py migrations``` and ```python manage.py migrate```
-### 7. ```py manage.py runserver```
+- Navigate to the BackEnd Directory (BackEnd\)
+- Create a virtual Environment and activate it
+- Install Django and Dependencies ``` pip install -r requirements.txt ```
+- Go to BackEnd\analyzePlatform\analyzePlatform\settings.py and change user password and user on DATABASES={} 
+- Change database name on DATABASES according to your schema name
+- Navigate to BackEnd\analyzePlatform and perform ```python manage.py migrations``` and ```python manage.py migrate```
+- ```py manage.py runserver```
