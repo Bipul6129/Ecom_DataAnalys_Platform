@@ -9,6 +9,12 @@ Before you begin, ensure you have the following tools installed on your machine:
 - Python
 - Django
 - Virtual Environment
+- MySql
+
+## Database Setup
+- Extract Dump rar
+- Import it on MySql Workbench
+
 
 ## Frontend Setup
 
@@ -22,6 +28,6 @@ Before you begin, ensure you have the following tools installed on your machine:
 - Create a virtual Environment and activate it
 - Install Django and Dependencies ``` pip install -r requirements.txt ```
 - Go to BackEnd\analyzePlatform\analyzePlatform\settings.py and change user password and user on DATABASES={} 
-- Change database name on DATABASES according to your schema name
+- Change database name on DATABASES according to your schema name also port number
 - Navigate to BackEnd\analyzePlatform and perform ```python manage.py migrations``` and ```python manage.py migrate```
 - ```py manage.py runserver```
