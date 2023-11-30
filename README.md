@@ -12,10 +12,10 @@ Before you begin, ensure you have the following tools installed on your machine:
 
 ## Frontend Setup
 
-### 1. Navigate to the Frontend Directory (FrontEnd\analyst_platform\)
-### 2. Open terminal
-### 3.-npm install
-### 4.-npm start
+- Navigate to the Frontend Directory (FrontEnd\analyst_platform\)
+- Open terminal
+-npm install
+-npm start
 
 ## BackEnd Setup
 
