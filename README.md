@@ -68,4 +68,5 @@ Before you begin, ensure you have the following tools installed on your machine:
 ### Future Enhancements
 
 - **Future Roadmap:**
-  - The project could implement the ethnicity of the users and use various algorithms to findout the popular products among the ethnicity of users and recommend the product based on customer ethnicity. The recommendation system of product could also be implemented by checking the frequent item bought together.
+  - The project could implement the ethnicity of the users and use various algorithms to findout the popular products among the ethnicity of users and recommend the product based on customer ethnicity.
+  - The recommendation system of product could also be implemented by checking the frequent item bought together.
